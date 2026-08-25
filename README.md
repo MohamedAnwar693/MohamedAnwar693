@@ -1,102 +1,84 @@
-👋 Hi, I'm Mohamed Anwar
-🚀 Odoo Developer | Full-Stack Developer | Python & JavaScript
+<h1 align="center">👋 Hi, I'm Mohamed Anwar</h1>
+<h3 align="center">🚀 Odoo Developer | Full-Stack Developer | Python & JavaScript</h3>
 
-I'm a passionate Odoo Developer and Full-Stack Developer who enjoys building business applications, ERP solutions, APIs, and modern web applications.
+<p align="center">
+  I'm a passionate Odoo Developer and Full-Stack Developer who enjoys building business applications, ERP solutions, APIs, and modern web applications.<br>
+  My main expertise is Odoo development with Python, including custom modules, ORM, OWL, business logic, and integrations. I also work across the full stack with JavaScript, TypeScript, React, Vue, Node.js, PHP, and Laravel.<br>
+  <em>I enjoy solving real-world business problems with clean, scalable, and maintainable software.</em>
+</p>
 
-My main expertise is Odoo development with Python, including custom modules, ORM, OWL, business logic, and integrations. I also work across the full stack with JavaScript, TypeScript, React, Vue, Node.js, PHP, and Laravel.
+---
 
-I enjoy solving real-world business problems with clean, scalable, and maintainable software.
+## 💻 About Me
 
-💻 About Me
-🏢 Odoo Developer
-🐍 Python developer with a focus on Odoo
-⚙️ Experienced with Odoo ORM & OWL
-🧩 Custom Odoo module development
-🔗 API development and third-party integrations
-🌐 Full-stack web development
-⚡ JavaScript & TypeScript development
-⚛️ React.js & Vue.js
-🟢 Node.js backend development
-🐘 PHP & Laravel
-🗄️ PostgreSQL, MySQL & MongoDB
-🐳 Docker
-☸️ Kubernetes
-🚀 Always learning and improving
-🛠️ Tech Stack
-🏢 Odoo & ERP
+<div align="center">
 
+🏢 **Odoo Developer** | 🐍 **Python Specialist** | ⚡ **Full-Stack Engineer**
 
+</div>
 
+- 🐍 Python developer with a focus on Odoo & business automation
+- ⚙️ Experienced with Odoo ORM, OWL, and custom module architecture
+- 🌐 Full-stack web development across JavaScript, TypeScript, React, Vue, Node.js, PHP, & Laravel
+- 🗄️ Database management & optimization with PostgreSQL, MySQL, & MongoDB
+- 🐳 DevOps & infrastructure experience with Docker, Kubernetes, & Load Balancers
+- 🚀 Always learning and improving
 
-Odoo Development
-Odoo ORM
-Odoo OWL
-Custom Modules
-Business Logic
-Odoo Views
-Odoo Security & Access Rights
-Odoo Automation
-Odoo Integrations
-ERP Customization
-⚙️ Backend Development
+---
 
+## 🛠️ Tech Stack
 
+### 🏢 Odoo & ERP
+<p>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
+**Odoo:** Odoo Development · ORM · OWL · Custom Modules · Business Logic · Views · Security & Access Rights · Wizards · Reports · Automation · API Integrations · ERP Customization
 
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
+**Backend:** Python · Node.js · PHP · Laravel · REST APIs · Backend Architecture · Authentication & Authorization · Third-Party API Integration
 
-Python
-Node.js
-PHP
-Laravel
-REST APIs
-Backend Architecture
-Authentication & Authorization
-Third-party API Integration
-Business Logic
-🎨 Frontend Development
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+</p>
 
+**Frontend:** JavaScript · TypeScript · React.js · Vue.js · Odoo OWL · Responsive Web Applications · API Integration · Modern UI Development
 
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
+**Database:** PostgreSQL · MySQL · MongoDB · Database Design · Data Modeling · Query Optimization
 
+### 🐳 DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Load%20Balancer-FF4F00?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 
+**DevOps:** Docker · Kubernetes · Load Balancing · Containerization · Application Deployment · Development Environments · Infrastructure
 
-JavaScript
-TypeScript
-React.js
-Vue.js
-Odoo OWL
-Responsive Web Applications
-API Integration
-Modern UI Development
-🗄️ Databases
+---
 
+## 🔥 Odoo Development
+My main focus is building and extending Odoo ERP solutions to transform business requirements into practical workflows.
 
-
-
-
-PostgreSQL
-MySQL
-MongoDB
-Database Design
-Data Modeling
-Query Optimization
-🐳 DevOps
-
-
-
-
-Docker
-Kubernetes
-Containerization
-Application Deployment
-Development Environments
-Infrastructure
-🔥 Odoo Development
-
-My main focus is building and extending Odoo ERP solutions.
-
-What I work with
+```text
 Odoo
 ├── Custom Modules
 ├── ORM
@@ -110,84 +92,3 @@ Odoo
 ├── Reports
 ├── API Integrations
 └── PostgreSQL
-
-
-I enjoy transforming business requirements into practical Odoo solutions and custom ERP workflows.
-
-🚀 Featured Projects
-🕐 Attendance Modification Request
-
-An Odoo module focused on handling employee attendance modification requests.
-
-Technology: Python · Odoo · PostgreSQL
-
-✅ Approval
-
-Odoo approval workflow implementation for managing business approval processes.
-
-Technology: Python · Odoo · ORM
-
-🔐 General Approval
-
-A general-purpose Odoo approval solution designed around customizable approval workflows.
-
-Technology: Python · Odoo
-
-🏥 Odoo Hospital
-
-An Odoo-based hospital/medical management project demonstrating custom Odoo module development.
-
-Technology: Python · Odoo · PostgreSQL
-
-📱 QR Code Generator
-
-A JavaScript-based QR code generation project.
-
-Technology: JavaScript
-
-🌐 Natours V2
-
-A modern web development project focused on building a responsive web application.
-
-Technology: JavaScript
-
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohamedAnwar693&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mohamed Anwar's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAnwar693&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" /> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAnwar693&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
-🎯 What I'm Working On
-🚀 Advanced Odoo development
-🧩 Building reusable Odoo modules
-⚙️ Odoo ORM & OWL
-🔗 Odoo and external API integrations
-🌐 Full-stack applications
-⚡ Modern JavaScript & TypeScript development
-🐳 Dockerized applications
-☸️ Kubernetes & deployment
-🏗️ Scalable software architecture
-💡 Development Philosophy
-
-Build simple. Write clean code. Solve real problems.
-
-I believe good software should be:
-
-🧩 Maintainable
-🚀 Scalable
-🔒 Secure
-⚡ Efficient
-📖 Easy to understand
-🎯 Focused on solving real business problems
-📫 Let's Connect
-<p align="center"> <a href="https://github.com/MohamedAnwar693"> <img src="https://img.shields.io/badge/GitHub-MohamedAnwar693-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <!-- Add your LinkedIn --> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-🧑‍💻 Open to Opportunities
-
-I'm interested in opportunities involving:
-
-Odoo Development · ERP Development · Python Development · Full-Stack Development · Backend Development · Software Engineering
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-
-Let's build something great together. 🚀
-
-</p>
