@@ -22,6 +22,7 @@
 - 🌐 Full-stack web development across JavaScript, TypeScript, React, Vue, Node.js, PHP, & Laravel
 - 🗄️ Database management & optimization with PostgreSQL, MySQL, & MongoDB
 - 🐳 DevOps & infrastructure experience with Docker, Kubernetes, & Load Balancers
+- 🐙 Version control & agile collaboration using Git, GitHub, GitLab, Jira, & ClickUp
 - 🚀 Always learning and improving
 
 ---
@@ -72,6 +73,17 @@
 </p>
 
 **DevOps:** Docker · Kubernetes · Load Balancing · Containerization · Application Deployment · Development Environments · Infrastructure
+
+### 📊 Tools & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+</p>
+
+**Tools & Management:** Git · GitHub · GitLab · Jira · ClickUp · Agile Workflows · Code Review · CI/CD Collaboration
 
 ---
 
